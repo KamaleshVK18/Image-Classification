@@ -32,8 +32,8 @@ Generate confusion matrix, classification report, and predict output for new sam
 
 ## PROGRAM
 
-### Name:
-### Register Number:
+### Name: V KAMALESH VIJAYAKUMAR
+### Register Number:212224110028
 ```python
 class CNNClassifier(nn.Module):
     def __init__(self):
