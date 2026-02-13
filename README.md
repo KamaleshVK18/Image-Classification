@@ -6,21 +6,29 @@ To Develop a convolutional deep neural network for image classification and to v
 
 ## Problem Statement and Dataset
 
-Include the Problem Statement and Dataset.
+To develop a Convolutional Neural Network (CNN) model to classify grayscale images into 10 distinct categories using deep learning techniques.
+To train, evaluate, and verify the model’s performance using confusion matrix, classification report, and prediction on new sample images.
 
 ## Neural Network Model
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
 ### STEP 1:
-Write your own steps
+Import required libraries such as PyTorch, Torchvision, and Matplotlib in Google Colab.
+Load the dataset and apply necessary transformations like tensor conversion and normalization.
 
 ### STEP 2:
+Create a CNN model using convolution layers, ReLU activation, and max pooling.
+Add fully connected layers for classification and define the forward propagation function.
 
 ### STEP 3:
+Initialize the model, loss function (CrossEntropyLoss), and optimizer (Adam).
+Perform forward propagation, compute loss, backpropagate errors, and update weights for multiple epochs.
 
+### STEP 4:
+Test the trained model using test data and compute performance metrics.
+Generate confusion matrix, classification report, and predict output for new sample images.
 
 ## PROGRAM
 
@@ -98,4 +106,5 @@ def train_model(model, train_loader, num_epochs=3):
 
 
 ## RESULT
-Include your result here.
+The Convolutional Neural Network model was successfully trained for image classification and achieved satisfactory performance on the test dataset.
+The model correctly classified new sample images, validating its effectiveness and accuracy.
