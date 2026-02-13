@@ -8,6 +8,8 @@ To Develop a convolutional deep neural network for image classification and to v
 
 To develop a Convolutional Neural Network (CNN) model to classify grayscale images into 10 distinct categories using deep learning techniques.
 To train, evaluate, and verify the model’s performance using confusion matrix, classification report, and prediction on new sample images.
+<img width="981" height="511" alt="image" src="https://github.com/user-attachments/assets/0c042621-6c8a-42d7-8df8-b6b0a733628a" />
+
 
 ## Neural Network Model
 
