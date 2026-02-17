@@ -10,10 +10,9 @@ To develop a Convolutional Neural Network (CNN) model to classify grayscale imag
 To train, evaluate, and verify the model’s performance using confusion matrix, classification report, and prediction on new sample images.
 <img width="981" height="511" alt="image" src="https://github.com/user-attachments/assets/0c042621-6c8a-42d7-8df8-b6b0a733628a" />
 
-
-## Neural Network Model
 <img width="1037" height="728" alt="image" src="https://github.com/user-attachments/assets/cd666021-d164-4fc5-b250-fe73e990e70c" />
 
+## Neural Network Model
 <img width="1040" height="563" alt="image" src="https://github.com/user-attachments/assets/5799c194-1784-4986-86da-6d40fed90c77" />
 
 
