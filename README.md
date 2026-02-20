@@ -4,13 +4,10 @@
 
 To Develop a convolutional deep neural network for image classification and to verify the response for new images.
 
-## Problem Statement and Dataset
+## Problem Statement
 
 To develop a Convolutional Neural Network (CNN) model to classify grayscale images into 10 distinct categories using deep learning techniques.
 To train, evaluate, and verify the model’s performance using confusion matrix, classification report, and prediction on new sample images.
-<img width="981" height="511" alt="image" src="https://github.com/user-attachments/assets/0c042621-6c8a-42d7-8df8-b6b0a733628a" />
-
-<img width="1037" height="728" alt="image" src="https://github.com/user-attachments/assets/cd666021-d164-4fc5-b250-fe73e990e70c" />
 
 ## Neural Network Model
 <img width="1038" height="526" alt="image" src="https://github.com/user-attachments/assets/14b2fef3-4d5b-4071-978e-2d9064d319ee" />
