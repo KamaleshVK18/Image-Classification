@@ -13,7 +13,7 @@ To train, evaluate, and verify the model’s performance using confusion matrix,
 <img width="1037" height="728" alt="image" src="https://github.com/user-attachments/assets/cd666021-d164-4fc5-b250-fe73e990e70c" />
 
 ## Neural Network Model
-<img width="1040" height="563" alt="image" src="https://github.com/user-attachments/assets/5799c194-1784-4986-86da-6d40fed90c77" />
+<img width="1038" height="526" alt="image" src="https://github.com/user-attachments/assets/14b2fef3-4d5b-4071-978e-2d9064d319ee" />
 
 
 ## DESIGN STEPS
